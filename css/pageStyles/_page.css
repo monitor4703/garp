@@ -4,6 +4,10 @@ body {
   margin-top: 70px;
 }
 
+p{
+    padding-left: 20px;
+}
+
 div.container {
     padding-left: 0px;
     padding-right: 0px;
