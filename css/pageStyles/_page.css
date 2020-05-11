@@ -2,28 +2,45 @@ body {
   overflow-x: hidden;
   background: #f1f1f1; 
   margin-top: 70px;
+  margin-bottom: 50px;
+  font-family: 'Times New Roman', Times, serif;
 }
 
-p{
+p.rel-ver{
     padding-left: 20px;
+    margin-bottom: 20px;
+    font-size: 250%;
+}
+
+div.noosh{
+    margin-top: 25px;
+    font-size: 130%;
 }
 
 div.container {
     padding-left: 0px;
     padding-right: 0px;
-    margin-bottom: 50px;
     background: #fefefe;
 }
 
+small{
+    color: #a0a0a0;
+}
+#inner-column{
+    padding-top: 30px;
+}
+
+div.col-sm-6{
+    margin-bottom: 20px;
+}
+
 #container-padd {
-    margin-bottom: 50px;
     background: #f1f1f1;
 }
 
 div.row {
     padding-left: 0px;
     padding-right: 0px;
-    margin-bottom: 40px;
 }
 
 nav {
